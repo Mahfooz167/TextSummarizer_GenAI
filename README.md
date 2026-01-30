@@ -26,3 +26,9 @@ It is deployed on Hugging Face Spaces and provides a simple web interface using 
 ```bash
 pip install -r requirements.txt
 python app.py
+
+
+## 👤 Author
+**Md Mahfooz Alam Ansari**  
+GitHub: https://github.com/Mahfooz167
+

@@ -46,17 +46,15 @@ The application is deployed on Hugging Face Spaces and runs continuously with a 
 pip install -r requirements.txt
 python app.py
 
----
 
 ## 👤 Ownership & Author
 
-### 👨‍💻 Owner & Developer
+### 🔐 Owner & Developer
 **Md Mahfooz Alam Ansari**
 
 🔗 **GitHub:** https://github.com/Mahfooz167
 
-This project is **originally developed, maintained, and fully owned** by **Md Mahfooz Alam Ansari**.
-All rights related to the source code, design, and implementation belong to the author.
-
+> This project is **originally developed, maintained, and fully owned** by  
+> **Md Mahfooz Alam Ansari**.
 ---
 

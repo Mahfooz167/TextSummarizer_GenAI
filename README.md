@@ -2,9 +2,6 @@
 > 👨‍💻 Developed, maintained, and owned by **Md Mahfooz Alam Ansari**
 
 An AI-powered text summarization application built using **Generative AI and Transformer models** to convert long text into concise, meaningful summaries.
-
-![AI Text Summarization](https://miro.medium.com/v2/resize:fit:1400/1*Qe5U9M1p6z0Gm4zY8x9Z6A.png)
-
 ---
 
 ## 🚀 Live Demo

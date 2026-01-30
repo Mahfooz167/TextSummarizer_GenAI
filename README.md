@@ -82,23 +82,21 @@ python app.py
 
 ---
 
-## 👤 Ownership & Author
+👤 Ownership & Author
+🔐 Owner & Developer
 
-### 🔐 Owner & Developer
-**Md Mahfooz Alam Ansari**
+Md Mahfooz Alam Ansari
 
-🔗 **GitHub:** https://github.com/Mahfooz167
+🔗 GitHub: https://github.com/Mahfooz167
 
-> This project is originally developed, maintained, and fully owned by  
-> **Md Mahfooz Alam Ansari**.
+This project is originally developed, maintained, and fully owned by
+Md Mahfooz Alam Ansari.
 
----
+📄 License
 
-## 📄 License
-This project is licensed under the **MIT License**.
+This project is licensed under the MIT License.
 
----
+🎯 Conclusion
 
-## 🎯 Conclusion
-This project demonstrates the real-world application of **Generative AI in Natural Language Processing**.  
+This project demonstrates the real-world application of Generative AI in Natural Language Processing.
 By combining Transformer models, a clean UI, and cloud deployment, it highlights how AI can significantly improve information consumption and productivity.
